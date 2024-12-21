@@ -1,0 +1,1 @@
+# openai-monobank-expense-tracker
