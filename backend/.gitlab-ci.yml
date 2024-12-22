@@ -1,0 +1,5 @@
+run_tests:
+    image: node:18
+    script:
+        - npm i
+        - npm run test:ava

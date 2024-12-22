@@ -1,0 +1,3 @@
+export const ERROR_TYPES = {
+    UNAUTHORIZED : 'SESSION_REQUIRED'
+}
